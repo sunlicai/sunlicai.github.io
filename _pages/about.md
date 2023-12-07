@@ -29,7 +29,7 @@ My research interests lie in affective computing and deep learning, with a speci
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div><div class="badge">ACM MM 2023</div><img src='images/research/MAE-DFER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/research/MAE-DFER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MAE-DFER: Efficient Masked Autoencoder for Self-supervised Dynamic Facial Expression Recognition](https://arxiv.org/abs/2307.02227)
