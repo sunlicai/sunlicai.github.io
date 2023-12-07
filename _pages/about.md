@@ -37,7 +37,7 @@ My research interests lie in affective computing and deep learning, with a speci
 **Licai Sun**, Zheng Lian, Bin Liu, Jianhua Tao
 
 **ACM MM 2023**, <a href="https://github.com/sunlicai/MAE-DFER"> Code </a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- MAE-DFER presents an *early* attempt to leverage *large-scale self-supervised pretraining* for dynamic facial expression recognition (DFER) and demonstrate great success on *six* popular DFER datasets.
+- MAE-DFER presents an early attempt to leverage *large-scale self-supervised pretraining* for dynamic facial expression recognition (DFER) and demonstrate great success on *six* popular DFER datasets.
 </div>
 </div>
 
@@ -59,8 +59,7 @@ My research interests lie in affective computing and deep learning, with a speci
 ]([https://github.com](https://ieeexplore.ieee.org/abstract/document/9414654)), **Licai Sun**, Bin Liu, Jianhua Tao, Zheng Lian, **ICASSP 2021**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.10* First place at MuSe@ACM MM 2020. 
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
