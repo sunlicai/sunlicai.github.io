@@ -55,8 +55,7 @@ My research interests lie in affective computing and deep learning, with a speci
 </div>
 
 
-- [Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition
-]([https://github.com](https://ieeexplore.ieee.org/abstract/document/9414654)), **Licai Sun**, Bin Liu, Jianhua Tao, Zheng Lian, **ICASSP 2021**
+- [Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9414654), **Licai Sun**, Bin Liu, Jianhua Tao, Zheng Lian, **ICASSP 2021**
 
 # 🎖 Honors and Awards
 - *2020.10* First place at MuSe@ACM MM 2020. 
