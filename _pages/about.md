@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the University of Chinese Academy of Sciences (UCAS) and Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. <a href="https://scholar.google.com/citations?user=781jbHMAAAAJ&hl=en&oi=ao"> Jianhua Tao.
+I am a Ph.D. student at the University of Chinese Academy of Sciences (UCAS) and Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. <a href="https://scholar.google.com/citations?user=781jbHMAAAAJ&hl=en&oi=ao"> Jianhua Tao </a>.
 My research interests lie in affective computing and deep learning, with a specific focus on multimodal learning and self-supervised learning. I have published papers at the top international AI journals and conferences, such as IEEE Trans. on Affective Computing, ACM MM, and ICASSP. <a href='https://scholar.google.com/citations?user=7qo_cTcAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsunlicai%2Fsunlicai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
@@ -53,6 +53,7 @@ My research interests lie in affective computing and deep learning, with a speci
 
 </div>
 </div>
+
 
 - [Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition
 ]([https://github.com](https://ieeexplore.ieee.org/abstract/document/9414654)), **Licai Sun**, Bin Liu, Jianhua Tao, Zheng Lian, **ICASSP 2021**
