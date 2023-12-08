@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am a Ph.D. student at the University of Chinese Academy of Sciences (UCAS) and Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. <a href="https://scholar.google.com/citations?user=781jbHMAAAAJ&hl=en&oi=ao"> Jianhua Tao </a>.
-My research interests lie in affective computing and deep learning, with a specific focus on multimodal learning and self-supervised learning. I have published papers at the top international AI journals and conferences, such as IEEE Trans. on Affective Computing, ACM MM, and ICASSP. 
+My research interests lie in affective computing and deep learning, with a specific focus on multimodal learning and self-supervised learning. I have published several papers at the top international AI journals and conferences, such as IEEE Trans. on Affective Computing, ACM MM, and ICASSP. 
 I am also the winner of several international competitions in affective computing, such as MuSe and MEGC.
 <a href='https://scholar.google.com/citations?user=7qo_cTcAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsunlicai%2Fsunlicai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -40,8 +40,11 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 
 **Licai Sun**, Zheng Lian, Bin Liu, Jianhua Tao
 
-**ACM MM 2023**, <a href="https://github.com/sunlicai/MAE-DFER"> Code </a> <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- MAE-DFER presents an early attempt to leverage *large-scale self-supervised pretraining* for dynamic facial expression recognition (DFER) and demonstrate great success on *six* popular DFER datasets.
+**ACM MM 2023** \| [![](https://img.shields.io/github/stars/sunlicai/MAE-DFER?style=social&label=Code+Stars)](https://github.com/sunlicai/MAE-DFER)<br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mae-dfer-efficient-masked-autoencoder-for/dynamic-facial-expression-recognition-on-dfew)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-dfew?p=mae-dfer-efficient-masked-autoencoder-for)<br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mae-dfer-efficient-masked-autoencoder-for/dynamic-facial-expression-recognition-on)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on?p=mae-dfer-efficient-masked-autoencoder-for)<br>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mae-dfer-efficient-masked-autoencoder-for/dynamic-facial-expression-recognition-on-mafw)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-mafw?p=mae-dfer-efficient-masked-autoencoder-for)<br>
+- MAE-DFER presents an early attempt to leverage *large-scale self-supervised pre-training* for dynamic facial expression recognition (DFER) and demonstrate great success on *six* popular DFER datasets.
 </div>
 </div>
 
@@ -50,14 +53,21 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 
 [Efficient Multimodal Transformer with Dual-Level Feature Restoration for Robust Multimodal Sentiment Analysis](https://arxiv.org/abs/2208.07589)
 
-**Licai Sun**, Zheng Lian, Bin Liu, Jianhua Tao
+**Licai Sun**, Zheng Lian, Bin Liu\#, Jianhua Tao\#
 
-**IEEE Trans. on Affective Computing**, <a href="https://github.com/sunlicai/EMT-DLFR"> Code </a>
+**IEEE Trans. on Affective Computing** \| [![](https://img.shields.io/github/stars/sunlicai/EMT-DLFR?style=social&label=Code+Stars)](https://github.com/sunlicai/EMT-DLFR)
 - EMT-DLFR aims to address the model *inefficiency* in multimodal fusion and *vulnerability* to missing modality features to achieve efficient and  robust multimodal sentiment analysis.
 
 </div>
 </div>
 
+- [GPT-4V with Emotion: A Zero-shot Benchmark for Multimodal Emotion Understanding](https://arxiv.org/abs/2312.04293), Zheng Lian, Licai Sun, Haiyang Sun, Kang Chen, Zhuofan Wen, Hao Gu, Shun Chen, Bin Liu, Jianhua Tao, arXiv 2023
+  
+- [Explainable Multimodal Emotion Reasoning](https://arxiv.org/abs/2306.15401), Zheng Lian, **Licai Sun**, Mingyu Xu, Haiyang Sun, Ke Xu, Zhuofan Wen, Shun Chen, Bin Liu, Jianhua Tao, arXiv 2023
+
+- [Mer 2023: Multi-label learning, modality robustness, and semi-supervised learning](https://arxiv.org/abs/2304.08981), Zheng Lian, Haiyang Sun, **Licai Sun**, Kang Chen, Mngyu Xu, Kexin Wang, Ke Xu, Yu He, Ying Li, Jinming Zhao, Ye Liu, Bin Liu, Jiangyan Yi, Meng Wang, Erik Cambria, Guoying Zhao, Björn W Schuller, Jianhua Tao, **ACM MM 2023**
+  
+- [GCNet: graph completion network for incomplete multimodal learning in conversation](https://ieeexplore.ieee.org/abstract/document/10008078), Zheng Lian, Lan Chen, **Licai Sun**, Bin Liu\#, Jianhua Tao\#, **TPAMI 2023**
 
 - [Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9414654), **Licai Sun**, Bin Liu, Jianhua Tao, Zheng Lian, **ICASSP 2021**
 
@@ -82,7 +92,7 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 -->
 
 # 📖 Educations
-- *2019.09 - now*, Ph.D. in Computer Application Technology, University of Chinese Academy Sciences &amp; Institute of Automation, Chinese Academy of Sciences, Beijing, China. 
+- *2019.09 - now*, Ph.D. in Computer Application Technology, University of Chinese Academy Sciences and Institute of Automation, Chinese Academy of Sciences, Beijing, China. 
 
 - *2016.09 - 2019.06*, M.Sc. in Computer Technology, University of Chinese Academy Sciences, Beijing, China. 
 
