@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Licai Sun (孙立才)"
-description              : "Ph.D. student at UCAS \& CASIA"
+description              : "Ph.D. student at UCAS &amp; CASIA"
 repository               : "sunlicai/sunlicai.github.io"
 google_scholar_stats_use_cdn : true
 
