@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Licai Sun (孙立才)"
-description              : "Ph.D. student at Institute of Automation, Chinese Academy of Sciences"
+description              : "Ph.D. student at UCAS & CASIA"
 repository               : "sunlicai/sunlicai.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Licai Sun"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/me.png"
   bio              : "[Curriculum Vitae]"
   location         : "Beijing, China"
   employer         :
