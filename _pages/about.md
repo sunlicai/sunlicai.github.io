@@ -27,7 +27,7 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp;&nbsp; Facial Expression Recognition; Micro-Expression Recognition; Multimodal Large Language Model </td>
+    <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp;&nbsp; Facial Expression Recognition; Micro-Expression Recognition; Audio-Visual Emotion Recognition; Multimodal Large Language Model </td>
     <td style="border: none;"> <font color="#0b5394"> Speech Signal Processing </font>: <BR>&nbsp;&nbsp; Speech Emotion Recognition </td>
   </tr>
   <tr style="border: none;">
