@@ -53,7 +53,7 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 **Licai Sun**, Zheng Lian, Bin Liu, Jianhua Tao
 
 **IEEE Trans. on Affective Computing**, <a href="https://github.com/sunlicai/EMT-DLFR"> Code </a>
-- EMT-DLFR aims to address the model *inefficiency* in multimodal fusion and *vulnerability* to missing modality features to achieve *robust* multimodal sentiment analysis.
+- EMT-DLFR aims to address the model *inefficiency* in multimodal fusion and *vulnerability* to missing modality features to achieve efficient and  robust multimodal sentiment analysis.
 
 </div>
 </div>
@@ -61,11 +61,11 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 
 - [Multimodal Cross- and Self-Attention Network for Speech Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9414654), **Licai Sun**, Bin Liu, Jianhua Tao, Zheng Lian, **ICASSP 2021**
 
-- [Multimodal Temporal Attention in Sentiment Analysis](https://dl.acm.org/doi/abs/10.1145/3551876.3554811), Yu He*, **Licai Sun***, Zheng Lian, Bin Liu, Jianhua Tao, Meng Wang, Yuan Cheng, **MuSe 2022**
+- [Multimodal Temporal Attention in Sentiment Analysis](https://dl.acm.org/doi/abs/10.1145/3551876.3554811), Yu He\*, **Licai Sun**\*, Zheng Lian, Bin Liu, Jianhua Tao, Meng Wang, Yuan Cheng, **MuSe 2022**
 
-- [Multimodal emotion recognition and sentiment analysis via attention enhanced recurrent model](https://dl.acm.org/doi/abs/10.1145/3475957.3484456), **Licai Sun***, Mingyu Xu*, Zheng Lian, Bin Liu, Jianhua Tao, Meng Wang, Yuan Cheng, **MuSe 2021**
+- [Multimodal emotion recognition and sentiment analysis via attention enhanced recurrent model](https://dl.acm.org/doi/abs/10.1145/3475957.3484456), **Licai Sun**\*, Mingyu Xu\*, Zheng Lian, Bin Liu, Jianhua Tao, Meng Wang, Yuan Cheng, **MuSe 2021**
 
-- [Multi-modal continuous dimensional emotion recognition using recurrent neural network and self-attention mechanism](https://dl.acm.org/doi/abs/10.1145/3423327.3423672), **Licai Sun***, Zheng Lian*, Bin Liu, Jianhua Tao, Mingyue Niu, **MuSe 2020**
+- [Multi-modal continuous dimensional emotion recognition using recurrent neural network and self-attention mechanism](https://dl.acm.org/doi/abs/10.1145/3423327.3423672), **Licai Sun**\*, Zheng Lian\*, Bin Liu, Jianhua Tao, Mingyue Niu, **MuSe 2020**
 
 # 🎖 Honors and Awards
 - *2023.10*: &nbsp;🎉🎉 [Winner](https://megc2023.github.io/challenge.html) of Micro-Expression and Marco-Expression Spotting Task at MEGC 2023 in ACM MM 2023.
@@ -82,19 +82,11 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 -->
 
 # 📖 Educations
-- *2019.09 - now*, Ph.D. in Computer Application Technology, University of Chinese Academy Sciences & Institute of Automation, Chinese Academy of Sciences, Beijing, China. 
+- *2019.09 - now*, Ph.D. in Computer Application Technology, University of Chinese Academy Sciences \& Institute of Automation, Chinese Academy of Sciences, Beijing, China. 
 
 - *2016.09 - 2019.06*, M.Sc. in Computer Technology, University of Chinese Academy Sciences, Beijing, China. 
 
 - *2012.09 - 2016.06*, B.Eng. in Electronic and Information Technology, Beijing Forestry University, Beijing, China. 
 
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
--->
 
 
