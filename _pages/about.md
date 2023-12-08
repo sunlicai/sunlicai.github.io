@@ -22,7 +22,20 @@ My research interests lie in affective computing and deep learning, with a speci
 I am also the winner of several international competitions in affective computing, such as MuSe and MEGC.
 <a href='https://scholar.google.com/citations?user=7qo_cTcAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsunlicai%2Fsunlicai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-Feel free to reach out if you’re interested in my work and want to explore potential collaborations.
+Feel free to reach out if you’re interested in my work and want to explore potential collaborations: sunlicai2019@ia.ac.cn
+
+# 📜 Research Area
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none;"> <font color="#0b5394"> Computer Vision </font>: <BR>&nbsp;&nbsp; Facial Expression Recognition; Micro-Expression Recognition; Multimodal Large Language Model </td>
+    <td style="border: none;"> <font color="#0b5394"> Speech Signal Processing </font>: <BR>&nbsp;&nbsp; Speech Emotion Recognition </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;"> <font color="#0b5394"> Natural Language Processing </font>: <BR>&nbsp;&nbsp; Multimodal Sentiment Analysis; Emotion Recognition in Conversation; Large Language Model </td>
+    <td style="border: none;"> <font color="#0b5394"> Self-supervised Learning </font>: <BR>&nbsp;&nbsp; Contrastive Learning; Masked Data Modeling </td>
+  </tr>
+</table>
+
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 MAE-DFER is accepted by ACM MM 2023. 
@@ -98,5 +111,8 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 
 - *2012.09 - 2016.06*, B.Eng. in Electronic and Information Technology, Beijing Forestry University, Beijing, China. 
 
+#  Professional Services
+- Journal Reviewer: IEEE Trans. on Affective Computing, Speech Communication.
+- Conference Reviewer: ACM MM, ICASSP, InterSpeech.
 
 
