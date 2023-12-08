@@ -111,7 +111,7 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 
 - *2012.09 - 2016.06*, B.Eng. in Electronic and Information Technology, Beijing Forestry University, Beijing, China. 
 
-#  Professional Services
+# 💬 Professional Services
 - Journal Reviewer: IEEE Trans. on Affective Computing, Speech Communication.
 - Conference Reviewer: ACM MM, ICASSP, InterSpeech.
 
