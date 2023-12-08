@@ -82,7 +82,7 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 -->
 
 # 📖 Educations
-- *2019.09 - now*, Ph.D. in Computer Application Technology, University of Chinese Academy Sciences \& Institute of Automation, Chinese Academy of Sciences, Beijing, China. 
+- *2019.09 - now*, Ph.D. in Computer Application Technology, University of Chinese Academy Sciences &amp; Institute of Automation, Chinese Academy of Sciences, Beijing, China. 
 
 - *2016.09 - 2019.06*, M.Sc. in Computer Technology, University of Chinese Academy Sciences, Beijing, China. 
 
