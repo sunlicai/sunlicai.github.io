@@ -39,7 +39,7 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 
 # 🔥 News
 - *2023.07*: &nbsp;🎉🎉 MAE-DFER is accepted by ACM MM 2023. 
-- *2023.04*: &nbsp;🎉🎉 EMT-DLFR is accepted by TAC. 
+- *2023.04*: &nbsp;🎉🎉 EMT-DLFR is accepted by IEEE Trans. on Affective Computing. 
 
 
 # 📝 Publications 
