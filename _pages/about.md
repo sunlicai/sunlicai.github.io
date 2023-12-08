@@ -114,5 +114,7 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 # 💬 Professional Services
 - Journal Reviewer: IEEE Trans. on Affective Computing, Speech Communication.
 - Conference Reviewer: ACM MM, ICASSP, InterSpeech.
+- Program Committee: MER2023@ACM MM 2023 Grand Challenge and MRAC2023@ACM MM 2023 Workshop.
+
 
 
