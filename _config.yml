@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Licai Sun"
   avatar           : "images/me.jpg"
-  bio              : "[Curriculum Vitae](https://github.com/sunlicai/sunlicai.github.io/blob/main/LicaiSun_CV.pdf)"
+  bio              : "Curriculum Vitae"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
