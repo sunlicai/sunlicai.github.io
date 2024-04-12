@@ -22,9 +22,9 @@ My research interests lie in affective computing and deep learning, with a speci
 I am also the winner of several international competitions in affective computing, such as MuSe and MEGC.
 <a href='https://scholar.google.com/citations?user=7qo_cTcAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsunlicai%2Fsunlicai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-Feel free to reach out (x@y, where x = sunlicai2019 and y = ia.ac.cn) if you’re interested in my work and want to explore potential collaborations.
+Feel free to reach out if you’re interested in my work and want to explore potential collaborations: x@y, where x = sunlicai2019 and y = ia.ac.cn.
 
-I am actively seeking a <span style="color: red;">postdoctoral research position</span> as well. If you are interested in my experience or have relevant information, please feel free to contact me and let me know. Thanks very much!
+I am actively seeking a **postdoctoral research position** as well. If you are interested in my experience or have relevant information, please feel free to contact me and let me know. Thanks very much!
 
 
 # 📜 Research Area
@@ -41,7 +41,7 @@ I am actively seeking a <span style="color: red;">postdoctoral research position
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 [HiCMAE](https://arxiv.org/abs/2401.05698) and [GPT-4v with Emotion](https://arxiv.org/pdf/2312.04293.pdf) are accepted by Information Fusion. 
+- *2024.03*: &nbsp;🎉🎉 [HiCMAE](https://arxiv.org/abs/2401.05698) and [GPT-4v with Emotion](https://arxiv.org/abs/2312.04293) are accepted by Information Fusion. 
 - *2023.07*: &nbsp;🎉🎉 [MAE-DFER](https://arxiv.org/abs/2307.02227) is accepted by ACM MM 2023. 
 - *2023.04*: &nbsp;🎉🎉 [EMT-DLFR](https://arxiv.org/abs/2208.07589) is accepted by IEEE Trans. on Affective Computing. 
 
