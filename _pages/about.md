@@ -17,12 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the University of Chinese Academy of Sciences (UCAS) and Institute of Automation, Chinese Academy of Sciences (CASIA), supervised by Prof. <a href="https://scholar.google.com/citations?user=781jbHMAAAAJ&hl=en&oi=ao"> Jianhua Tao </a>.
-My research interests lie in affective computing and deep learning, with a specific focus on multimodal learning and self-supervised learning. I have published several papers at the top international AI journals and conferences, such as IEEE Trans. on Affective Computing, ACM MM, and ICASSP. 
+I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences (CASIA) and University of Chinese Academy of Sciences (UCAS), supervised by Prof. <a href="https://people.ucas.edu.cn/~taojianhua?language=en"> Jianhua Tao </a>.
+My research interests lie in affective computing and deep learning, with a specific focus on multimodal learning and self-supervised learning. I have published several papers at the top international AI journals and conferences, such as Information Fusion, IEEE Trans. on Affective Computing, ACM MM, and ICASSP. 
 I am also the winner of several international competitions in affective computing, such as MuSe and MEGC.
 <a href='https://scholar.google.com/citations?user=7qo_cTcAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsunlicai%2Fsunlicai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-Feel free to reach out if you’re interested in my work and want to explore potential collaborations: sunlicai2019@ia.ac.cn
+Feel free to reach out (x@y, where x = sunlicai2019 and y = ia.ac.cn) if you’re interested in my work and want to explore potential collaborations.
+
+I am actively seeking a <span style="color: red;">postdoctoral research position</span> as well. If you are interested in my experience or have relevant information, please feel free to contact me and let me know. Thanks very much!
+
 
 # 📜 Research Area
 <table style="border-collapse: collapse; border: none;">
@@ -38,14 +41,43 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 
 
 # 🔥 News
-- *2023.07*: &nbsp;🎉🎉 MAE-DFER is accepted by ACM MM 2023. 
-- *2023.04*: &nbsp;🎉🎉 EMT-DLFR is accepted by IEEE Trans. on Affective Computing. 
+- *2024.03*: &nbsp;🎉🎉 [HiCMAE](https://arxiv.org/abs/2401.05698) and [GPT-4v with Emotion](https://arxiv.org/pdf/2312.04293.pdf) are accepted by Information Fusion. 
+- *2023.07*: &nbsp;🎉🎉 [MAE-DFER](https://arxiv.org/abs/2307.02227) is accepted by ACM MM 2023. 
+- *2023.04*: &nbsp;🎉🎉 [EMT-DLFR](https://arxiv.org/abs/2208.07589) is accepted by IEEE Trans. on Affective Computing. 
 
 
 # 📝 Publications 
 
 \* Equal contribution, \# Corresponding author
- 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS</div><img src='images/research/HiCMAE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[HiCMAE: Hierarchical Contrastive Masked Autoencoder for Self-Supervised Audio-Visual Emotion Recognition](https://arxiv.org/abs/2401.05698)
+
+**Licai Sun**, Zheng Lian, Bin Liu\#, Jianhua Tao\#
+
+**Information Fusion** \| [![](https://img.shields.io/github/stars/sunlicai/HiCMAE?style=social&label=Code+Stars)](https://github.com/sunlicai/HiCMAE)
+- HiCMAE introduces a novel hierarchical contrastive masked autoencoder for self-supervised audio-visual emotion recognition (AVER) and achieves SOTA performance on *nine* popular AVER datasets.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS</div><img src='images/research/GPT4V_Emotion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GPT-4V with Emotion: A Zero-shot Benchmark for Generalized Emotion Recognition](https://arxiv.org/abs/2312.04293)
+
+Zheng Lian, **Licai Sun**, Haiyang Sun, Kang Chen, Zhuofan Wen, Hao Gu, Bin Liu\#, Jianhua Tao\#
+
+**Information Fusion** \| [![](https://img.shields.io/github/stars/zeroQiaoba/gpt4v-emotion?style=social&label=Code+Stars)](https://github.com/zeroQiaoba/gpt4v-emotion)
+- This paper quatitatively evaluates the emotional intelligence of GPT-4V on 21 benchmark datasets covering 6 emotion recognition tasks.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/research/MAE-DFER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,9 +89,10 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mae-dfer-efficient-masked-autoencoder-for/dynamic-facial-expression-recognition-on-dfew)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-dfew?p=mae-dfer-efficient-masked-autoencoder-for)<br>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mae-dfer-efficient-masked-autoencoder-for/dynamic-facial-expression-recognition-on)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on?p=mae-dfer-efficient-masked-autoencoder-for)<br>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/mae-dfer-efficient-masked-autoencoder-for/dynamic-facial-expression-recognition-on-mafw)](https://paperswithcode.com/sota/dynamic-facial-expression-recognition-on-mafw?p=mae-dfer-efficient-masked-autoencoder-for)<br>
-- MAE-DFER presents an early attempt to leverage *large-scale self-supervised pre-training* for dynamic facial expression recognition (DFER) and demonstrate great success on *six* popular DFER datasets.
+- MAE-DFER presents an early attempt to leverage *large-scale self-supervised pre-training* for dynamic facial expression recognition (DFER) and demonstrates great success on *six* popular DFER datasets.
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC</div><img src='images/research/EMT-DLFR_Architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,12 +102,13 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 **Licai Sun**, Zheng Lian, Bin Liu\#, Jianhua Tao\#
 
 **IEEE Trans. on Affective Computing** \| [![](https://img.shields.io/github/stars/sunlicai/EMT-DLFR?style=social&label=Code+Stars)](https://github.com/sunlicai/EMT-DLFR)
-- EMT-DLFR aims to address the model *inefficiency* in multimodal fusion and *vulnerability* to missing modality features to achieve efficient and  robust multimodal sentiment analysis.
+- EMT-DLFR aims to address the *inefficiency* in fusing unaligned multimodal sequences and the *vulnerability* to missing data in real-world scenarios to achieve efficient and robust multimodal sentiment analysis.
 
 </div>
 </div>
 
-- [GPT-4V with Emotion: A Zero-shot Benchmark for Multimodal Emotion Understanding](https://arxiv.org/abs/2312.04293), Zheng Lian, **Licai Sun**, Haiyang Sun, Kang Chen, Zhuofan Wen, Hao Gu, Shun Chen, Bin Liu, Jianhua Tao, arXiv 2023 \| [![](https://img.shields.io/github/stars/zeroQiaoba/gpt4v-emotion?style=social&label=Code+Stars)](https://github.com/zeroQiaoba/gpt4v-emotion)
+
+- [SVFAP: Self-supervised Video Facial Affect Perceiver](https://arxiv.org/abs/2401.00416), Licai Sun, Zheng Lian, Kexin Wang, Yu He, Mingyu Xu, Haiyang Sun, Bin Liu, Jianhua Tao, **IEEE Trans. on Affective Computing** (Minor Revision) \| [![](https://img.shields.io/github/stars/sunlicai/SVFAP?style=social&label=Code+Stars)](https://github.com/sunlicai/SVFAP)
   
 - [Explainable Multimodal Emotion Reasoning](https://arxiv.org/abs/2306.15401), Zheng Lian, **Licai Sun**, Mingyu Xu, Haiyang Sun, Ke Xu, Zhuofan Wen, Shun Chen, Bin Liu, Jianhua Tao, arXiv 2023 \| [![](https://img.shields.io/github/stars/zeroQiaoba/AffectGPT?style=social&label=Code+Stars)](https://github.com/zeroQiaoba/AffectGPT)
 
@@ -105,15 +139,15 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 -->
 
 # 📖 Educations
-- *2019.09 - now*, Ph.D. in Computer Application Technology, University of Chinese Academy Sciences and Institute of Automation, Chinese Academy of Sciences, Beijing, China. 
+- *2019.09 - now*, Ph.D. in Computer Applied Technology, Institute of Automation, Chinese Academy of Sciences and University of Chinese Academy Sciences, Beijing, China. 
 
 - *2016.09 - 2019.06*, M.Sc. in Computer Technology, University of Chinese Academy Sciences, Beijing, China. 
 
 - *2012.09 - 2016.06*, B.Eng. in Electronic and Information Technology, Beijing Forestry University, Beijing, China. 
 
 # 💬 Professional Services
-- Journal Reviewer: IEEE Trans. on Affective Computing, Speech Communication.
-- Conference Reviewer: ACM MM, ICASSP, InterSpeech.
+- Journal Reviewer: IEEE Trans. on Affective Computing, Speech Communication, Engineering Applications of Artificial Intelligence.
+- Conference Reviewer: ACM MM (2024, 2023), ICASSP (2022), InterSpeech (2020).
 - Program Committee: MER2023@ACM MM 2023 Grand Challenge and MRAC2023@ACM MM 2023 Workshop.
 
 
