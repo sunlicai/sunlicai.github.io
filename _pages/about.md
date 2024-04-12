@@ -50,28 +50,28 @@ I am actively seeking a **postdoctoral research position** as well. If you are i
 
 \* Equal contribution, \# Corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS</div><img src='images/research/HiCMAE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/research/HiCMAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HiCMAE: Hierarchical Contrastive Masked Autoencoder for Self-Supervised Audio-Visual Emotion Recognition](https://arxiv.org/abs/2401.05698)
 
 **Licai Sun**, Zheng Lian, Bin Liu\#, Jianhua Tao\#
 
-**Information Fusion** \| [![](https://img.shields.io/github/stars/sunlicai/HiCMAE?style=social&label=Code+Stars)](https://github.com/sunlicai/HiCMAE)
+**Information Fusion, 2024** \| [![](https://img.shields.io/github/stars/sunlicai/HiCMAE?style=social&label=Code+Stars)](https://github.com/sunlicai/HiCMAE)
 - HiCMAE introduces a novel hierarchical contrastive masked autoencoder for self-supervised audio-visual emotion recognition (AVER) and achieves SOTA performance on *nine* popular AVER datasets.
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS</div><img src='images/research/GPT4V_Emotion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/research/GPT4V_Emotion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GPT-4V with Emotion: A Zero-shot Benchmark for Generalized Emotion Recognition](https://arxiv.org/abs/2312.04293)
 
 Zheng Lian, **Licai Sun**, Haiyang Sun, Kang Chen, Zhuofan Wen, Hao Gu, Bin Liu\#, Jianhua Tao\#
 
-**Information Fusion** \| [![](https://img.shields.io/github/stars/zeroQiaoba/gpt4v-emotion?style=social&label=Code+Stars)](https://github.com/zeroQiaoba/gpt4v-emotion)
+**Information Fusion, 2024** \| [![](https://img.shields.io/github/stars/zeroQiaoba/gpt4v-emotion?style=social&label=Code+Stars)](https://github.com/zeroQiaoba/gpt4v-emotion)
 - This paper quatitatively evaluates the emotional intelligence of GPT-4V on 21 benchmark datasets covering 6 emotion recognition tasks.
 
 </div>
@@ -94,14 +94,14 @@ Zheng Lian, **Licai Sun**, Haiyang Sun, Kang Chen, Zhuofan Wen, Hao Gu, Bin Liu\
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC</div><img src='images/research/EMT-DLFR_Architecture.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2023</div><img src='images/research/EMT-DLFR_Architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Efficient Multimodal Transformer with Dual-Level Feature Restoration for Robust Multimodal Sentiment Analysis](https://arxiv.org/abs/2208.07589)
 
 **Licai Sun**, Zheng Lian, Bin Liu\#, Jianhua Tao\#
 
-**IEEE Trans. on Affective Computing** \| [![](https://img.shields.io/github/stars/sunlicai/EMT-DLFR?style=social&label=Code+Stars)](https://github.com/sunlicai/EMT-DLFR)
+**IEEE Trans. on Affective Computing, 2023** \| [![](https://img.shields.io/github/stars/sunlicai/EMT-DLFR?style=social&label=Code+Stars)](https://github.com/sunlicai/EMT-DLFR)
 - EMT-DLFR aims to address the *inefficiency* in fusing unaligned multimodal sequences and the *vulnerability* to missing data in real-world scenarios to achieve efficient and robust multimodal sentiment analysis.
 
 </div>
