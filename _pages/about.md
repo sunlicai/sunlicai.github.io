@@ -72,7 +72,7 @@ I am actively seeking a **postdoctoral research position** as well. If you are i
 Zheng Lian, **Licai Sun**, Haiyang Sun, Kang Chen, Zhuofan Wen, Hao Gu, Bin Liu\#, Jianhua Tao\#
 
 **Information Fusion, 2024** \| [![](https://img.shields.io/github/stars/zeroQiaoba/gpt4v-emotion?style=social&label=Code+Stars)](https://github.com/zeroQiaoba/gpt4v-emotion)
-- This paper quatitatively evaluates the emotional intelligence of GPT-4V on 21 benchmark datasets covering 6 emotion recognition tasks.
+- This paper quantitatively evaluates the emotional intelligence of GPT-4V on 21 benchmark datasets covering 6 emotion recognition tasks.
 
 </div>
 </div>
