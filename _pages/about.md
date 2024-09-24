@@ -17,14 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student at the Institute of Automation, Chinese Academy of Sciences (CASIA) and University of Chinese Academy of Sciences (UCAS), supervised by Prof. <a href="https://people.ucas.edu.cn/~taojianhua?language=en"> Jianhua Tao </a>.
+I am a postdoctoral researcher working with Prof. <a href="https://people.ucas.edu.cn/~taojianhua?language=en"> Guoying Zhao </a> at <a href="https://www.oulu.fi/cmvs"> Center for Machine Vision and Signal Analysis (CMVS) </a>, University of Oulu, Finland. I received my PhD degree at the Institute of Automation, Chinese Academy of Sciences (CASIA) and University of Chinese Academy of Sciences (UCAS), supervised by Prof. <a href="https://people.ucas.edu.cn/~taojianhua?language=en"> Jianhua Tao </a>.
 My research interests lie in affective computing and deep learning, with a specific focus on multimodal learning and self-supervised learning. I have published several papers at the top international AI journals and conferences, such as Information Fusion, IEEE Trans. on Affective Computing, ACM MM, and ICASSP. 
 I am also the winner of several international competitions in affective computing, such as MuSe and MEGC.
 <a href='https://scholar.google.com/citations?user=7qo_cTcAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fsunlicai%2Fsunlicai.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-Feel free to reach out if you’re interested in my work and want to explore potential collaborations: x@y, where x = sunlicai2019 and y = ia.ac.cn.
-
-I am actively seeking a **postdoctoral research position** as well. If you are interested in my experience or have relevant information, please feel free to contact me and let me know. Thanks very much!
+Feel free to reach out if you’re interested in my work and want to explore potential collaborations.
 
 
 # 📜 Research Area
@@ -41,6 +39,7 @@ I am actively seeking a **postdoctoral research position** as well. If you are i
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 [SVFAP](https://arxiv.org/abs//2401.00416) is accepted by IEEE Trans. on Affective Computing.
 - *2024.03*: &nbsp;🎉🎉 [HiCMAE](https://arxiv.org/abs/2401.05698) and [GPT-4v with Emotion](https://arxiv.org/abs/2312.04293) are accepted by Information Fusion. 
 - *2023.07*: &nbsp;🎉🎉 [MAE-DFER](https://arxiv.org/abs/2307.02227) is accepted by ACM MM 2023. 
 - *2023.04*: &nbsp;🎉🎉 [EMT-DLFR](https://arxiv.org/abs/2208.07589) is accepted by IEEE Trans. on Affective Computing. 
@@ -48,7 +47,7 @@ I am actively seeking a **postdoctoral research position** as well. If you are i
 
 # 📝 Publications 
 
-\* Equal contribution, \# Corresponding author
+\# Equal contribution, \* Corresponding author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFFUS 2024</div><img src='images/research/HiCMAE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,6 +58,20 @@ I am actively seeking a **postdoctoral research position** as well. If you are i
 
 **Information Fusion, 2024** \| [![](https://img.shields.io/github/stars/sunlicai/HiCMAE?style=social&label=Code+Stars)](https://github.com/sunlicai/HiCMAE)
 - HiCMAE introduces a novel hierarchical contrastive masked autoencoder for self-supervised audio-visual emotion recognition (AVER) and achieves SOTA performance on *nine* popular AVER datasets.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TAC 2023</div><img src='images/research/SVFAP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[SVFAP: Self-supervised Video Facial Affect Perceiver](https://arxiv.org/abs/2401.00416)
+
+**Licai Sun**, Zheng Lian\#, Kexin Wang, Yu He, Mingyu Xu, Haiyang Sun, Bin Liu\#, Jianhua Tao\#
+
+**IEEE Trans. on Affective Computing, 2024** \| [![](https://img.shields.io/github/stars/sunlicai/SVFAP?style=social&label=Code+Stars)](https://github.com/sunlicai/SVFAP)
+- SVFAP seeks *large-scale self-supervised pre-training* for video facial affect analysis and achieves superior performance on *nine* datasets spanning three different tasks.
 
 </div>
 </div>
@@ -108,7 +121,7 @@ Zheng Lian, **Licai Sun**, Haiyang Sun, Kang Chen, Zhuofan Wen, Hao Gu, Bin Liu\
 </div>
 
 
-- [SVFAP: Self-supervised Video Facial Affect Perceiver](https://arxiv.org/abs/2401.00416), Licai Sun, Zheng Lian, Kexin Wang, Yu He, Mingyu Xu, Haiyang Sun, Bin Liu, Jianhua Tao, **IEEE Trans. on Affective Computing** (Minor Revision) \| [![](https://img.shields.io/github/stars/sunlicai/SVFAP?style=social&label=Code+Stars)](https://github.com/sunlicai/SVFAP)
+
   
 - [Explainable Multimodal Emotion Reasoning](https://arxiv.org/abs/2306.15401), Zheng Lian, **Licai Sun**, Mingyu Xu, Haiyang Sun, Ke Xu, Zhuofan Wen, Shun Chen, Bin Liu, Jianhua Tao, arXiv 2023 \| [![](https://img.shields.io/github/stars/zeroQiaoba/AffectGPT?style=social&label=Code+Stars)](https://github.com/zeroQiaoba/AffectGPT)
 
@@ -139,7 +152,7 @@ Zheng Lian, **Licai Sun**, Haiyang Sun, Kang Chen, Zhuofan Wen, Hao Gu, Bin Liu\
 -->
 
 # 📖 Educations
-- *2019.09 - now*, Ph.D. in Computer Applied Technology, Institute of Automation, Chinese Academy of Sciences and University of Chinese Academy Sciences, Beijing, China. 
+- *2019.09 - 2024.06*, Ph.D. in Computer Applied Technology, Institute of Automation, Chinese Academy of Sciences and University of Chinese Academy Sciences, Beijing, China. 
 
 - *2016.09 - 2019.06*, M.Sc. in Computer Technology, University of Chinese Academy Sciences, Beijing, China. 
 
