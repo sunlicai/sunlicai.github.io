@@ -40,6 +40,7 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 [SVFAP](https://arxiv.org/abs//2401.00416) is accepted by IEEE Trans. on Affective Computing.
+- *2024.07*: &nbsp;🎉🎉 [EMT-DLFR](https://arxiv.org/abs/2208.07589) is selected as an [ESI Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:001178971100010).
 - *2024.03*: &nbsp;🎉🎉 [HiCMAE](https://arxiv.org/abs/2401.05698) and [GPT-4v with Emotion](https://arxiv.org/abs/2312.04293) are accepted by Information Fusion. 
 - *2023.07*: &nbsp;🎉🎉 [MAE-DFER](https://arxiv.org/abs/2307.02227) is accepted by ACM MM 2023. 
 - *2023.04*: &nbsp;🎉🎉 [EMT-DLFR](https://arxiv.org/abs/2208.07589) is accepted by IEEE Trans. on Affective Computing. 
