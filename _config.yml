@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Licai Sun (孙立才)"
-description              : "Ph.D. student at CASIA and UCAS"
+description              : "Postdoc at CMVS, University of Oulu"
 repository               : "sunlicai/sunlicai.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,11 +24,11 @@ author:
   name             : "Licai Sun"
   avatar           : "images/me.jpg"
   bio              : "[Curriculum Vitae]"
-  location         : "Beijing, China"
+  location         : "Oulu, Finland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7qo_cTcAAAAJ&hl=en&oi=ao"
-  email            : "sunlicai2019@ia.ac.cn"
+  email            : "Licai.Sun@oulu.fi"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
