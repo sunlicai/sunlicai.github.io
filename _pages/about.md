@@ -40,7 +40,7 @@ Feel free to reach out if you’re interested in my work and want to explore pot
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 [SVFAP](https://arxiv.org/abs//2401.00416) is accepted by IEEE Trans. on Affective Computing.
-- *2024.07*: &nbsp;🎉🎉 [EMT-DLFR](https://arxiv.org/abs/2208.07589) is selected as an [ESI Highly Cited Paper](https://www.webofscience.com/wos/woscc/full-record/WOS:001178971100010).
+- *2024.07*: &nbsp;🎉🎉 [EMT-DLFR](https://arxiv.org/abs/2208.07589) is selected as an [**ESI Highly Cited Paper**](https://www.webofscience.com/wos/woscc/full-record/WOS:001178971100010).
 - *2024.03*: &nbsp;🎉🎉 [HiCMAE](https://arxiv.org/abs/2401.05698) and [GPT-4v with Emotion](https://arxiv.org/abs/2312.04293) are accepted by Information Fusion. 
 - *2023.07*: &nbsp;🎉🎉 [MAE-DFER](https://arxiv.org/abs/2307.02227) is accepted by ACM MM 2023. 
 - *2023.04*: &nbsp;🎉🎉 [EMT-DLFR](https://arxiv.org/abs/2208.07589) is accepted by IEEE Trans. on Affective Computing. 
@@ -117,6 +117,9 @@ Zheng Lian, **Licai Sun**, Haiyang Sun, Kang Chen, Zhuofan Wen, Hao Gu, Bin Liu\
 **Licai Sun**, Zheng Lian, Bin Liu\#, Jianhua Tao\#
 
 **IEEE Trans. on Affective Computing, 2023** \| [![](https://img.shields.io/github/stars/sunlicai/EMT-DLFR?style=social&label=Code+Stars)](https://github.com/sunlicai/EMT-DLFR)
+
+[**ESI Highly Cited Paper**](https://www.webofscience.com/wos/woscc/full-record/WOS:001178971100010)
+
 - EMT-DLFR aims to address the *inefficiency* in fusing unaligned multimodal sequences and the *vulnerability* to missing data in real-world scenarios to achieve efficient and robust multimodal sentiment analysis.
 
 </div>
