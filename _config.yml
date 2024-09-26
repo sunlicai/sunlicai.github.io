@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Licai Sun (孙立才)"
-description              : "Postdoc at the <a href="https://www.oulu.fi/cmvs">Center for Machine Vision and Signal Analysis (CMVS)</a>, University of Oulu"
+description              : "Postdoc at the Center for Machine Vision and Signal Analysis (CMVS), University of Oulu"
 repository               : "sunlicai/sunlicai.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Licai Sun"
+  name             : "Licai Sun (孙立才)"
   avatar           : "images/me.jpg"
   bio              : "[Curriculum Vitae]"
   location         : "Oulu, Finland"
